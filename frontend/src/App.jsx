@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './css/App.css'
 import MovieCard from './components/MovieCard'
 import HomePage from './pages/HomePage'
 import Favorites from './pages/Favorites'
